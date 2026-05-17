@@ -1,0 +1,46 @@
+{
+  "documents": [
+    {
+      "id": "faq_001",
+      "source": "product_specs",
+      "content": "Battery: 12 hours continuous playback, 50 hours total with charging case. Fast charging: 10 minutes charge gives 2 hours playback. USB-C charging port. Full charge time: 1.5 hours.",
+      "language": "en"
+    },
+    {
+      "id": "faq_002",
+      "source": "product_specs",
+      "content": "Bluetooth 5.3 with 30m range. Supports AAC, SBC, and LDAC codecs. Multipoint connection: connect to 2 devices simultaneously. Low latency gaming mode (60ms).",
+      "language": "en"
+    },
+    {
+      "id": "faq_003",
+      "source": "shipping",
+      "content": "Free standard shipping to Southeast Asia (Thailand, Indonesia, Vietnam, Philippines, Malaysia, Singapore). Delivery time: 5-10 business days. Express shipping available: 2-4 business days for $9.99.",
+      "language": "en"
+    },
+    {
+      "id": "faq_004",
+      "source": "returns",
+      "content": "30-day no-questions-asked return policy. Free return shipping label provided. Refund processed within 5 business days of receiving return. 1-year warranty against manufacturing defects.",
+      "language": "en"
+    },
+    {
+      "id": "faq_005",
+      "source": "product_specs",
+      "content": "IPX6 water resistance rating. Protected against heavy splashing and sweat. NOT designed for swimming or submersion. Ideal for workouts and rain.",
+      "language": "en"
+    },
+    {
+      "id": "faq_006",
+      "source": "product_specs",
+      "content": "SecureFit ergonomic design tested on 500+ ear shapes. Includes 4 sizes of silicone ear tips (XS, S, M, L) and 3 sizes of wing tips. Weight: 5.4g per earbud.",
+      "language": "en"
+    },
+    {
+      "id": "faq_007",
+      "source": "pricing",
+      "content": "Standard price: $79.99. Bundle deals available: 2 pairs for $139.99. Student discount: 15% off with valid .edu email. Corporate/bulk orders: contact sales@techbrand.com for quotes.",
+      "language": "en"
+    }
+  ]
+}
