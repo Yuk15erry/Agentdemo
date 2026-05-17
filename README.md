@@ -1,11 +1,11 @@
 # 🌍 Cross-Border Ecommerce AI — Multi-Agent Marketing \& Customer Service System
 
-> \*\*Production-grade demo\*\* of a multi-agent AI system that automates cross-border ecommerce operations: market insight extraction, multilingual copywriting with chain-of-thought refinement, and RAG-powered customer service — all with real-time token consumption tracking.
+> **Production-grade demo** of a multi-agent AI system that automates cross-border ecommerce operations: market insight extraction, multilingual copywriting with chain-of-thought refinement, and RAG-powered customer service — all with real-time token consumption tracking.
 
-[!\[Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
-[!\[Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
-[!\[FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
-[!\[License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[[Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[[Streamlit](https://img.shields.io/badge/Streamlit-1.28+-red.svg)](https://streamlit.io/)
+[[FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
+[[License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
 \---
 
