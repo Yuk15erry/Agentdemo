@@ -7,7 +7,7 @@
 [[FastAPI](https://img.shields.io/badge/FastAPI-0.104+-green.svg)](https://fastapi.tiangolo.com/)
 [[License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
-\---
+---
 
 ## 🎯 What This System Solves
 
@@ -17,7 +17,7 @@
 |Delayed multilingual customer inquiries at night|**Customer Service Agent** with RAG + ERP integration|**42% increase** in nighttime inquiry conversion|
 |Manual competitor review analysis|**Market Insight Agent** with long-text pain-point extraction|Actionable insights in minutes, not days|
 
-\---
+---
 
 ## 🏗️ Architecture — Three Core Agents
 
